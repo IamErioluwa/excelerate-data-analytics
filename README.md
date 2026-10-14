@@ -6,7 +6,18 @@ Data cleaning, integration, and SQL validation scripts for the Excelerate Data A
 
 An end-to-end analysis of two programme datasets: what opportunities were on offer, and how learners applied, paid and completed. The project covers database setup, SQL exploration, data cleaning, integration, a Looker Studio dashboard and recommendations.
 
-**Dashboard:** https://datastudio.google.com/reporting/49e1df4f-fc72-4876-a9a9-560a5ccae1c0
+**Dashboard:** https://datastudio.google.com/reporting/49e1df4f-fc72-4876-a9a9-
+560a5ccae1c0
+### Dashboard Previews
+**Page 1: Opportunity Performance**
+![Opportunity Performance](images/oppourtunityPerformance.png)
+
+**Page 2: Learner Activity**
+![Learner Activity](images/your_second_image_name.png)
+
+**Page 3: Lead Sources & Trend**
+![Lead Sources](images/your_third_image_name.png)
+
 **Final presentation:** see `reports/`
 
 ## Business questions
