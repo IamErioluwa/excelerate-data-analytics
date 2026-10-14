@@ -68,4 +68,4 @@ images/     Dashboard screenshots
 
 ## Author
 
-Emmanuel Erioluwa Olowodu · [LinkedIn profile link]
+Emmanuel Erioluwa Olowodu · https://www.linkedin.com/in/emmanuel-olowodu/
