@@ -10,7 +10,7 @@ An end-to-end analysis of two programme datasets: what opportunities were on off
 560a5ccae1c0
 ### Dashboard Previews
 **Page 1: Opportunity Performance**
-![Opportunity Performance](images/opportunity_Performance.png)
+![Opportunity Performance](images/Opportunity_Performance.png)
 
 **Page 2: Learner Activity**
 ![Learner Activity](images/Learner_Activity.png)
