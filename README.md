@@ -10,13 +10,13 @@ An end-to-end analysis of two programme datasets: what opportunities were on off
 560a5ccae1c0
 ### Dashboard Previews
 **Page 1: Opportunity Performance**
-![Opportunity Performance](images/oppourtunityPerformance.png)
+![Opportunity Performance](images/oppourtunity_Performance.png)
 
 **Page 2: Learner Activity**
-![Learner Activity](images/your_second_image_name.png)
+![Learner Activity](images/Learner_Activity.png)
 
 **Page 3: Lead Sources & Trend**
-![Lead Sources](images/your_third_image_name.png)
+![Lead Sources](images/Lead_Sources.png)
 
 **Final presentation:** see `reports/`
 
